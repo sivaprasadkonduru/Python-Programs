@@ -1,0 +1,10 @@
+f = open("xyz.txt", 'w')
+print(dir(f))
+print(f.tell())
+f.seek(20)
+print(f.tell())
+f.write('hello python.\n')
+f.write('welcome to python.')
+
+f.writelines(["it's a dynamic typing lang\n", "It supports OOPS\n", "It has huge third-party library."])
+f.close()

@@ -1,0 +1,16 @@
+welcome to python.
+Python is a dynamic typing language.
+python supports OOP.
+python is an interpreted language.
+Python supports web-development.
+Python is easy.welcome to python.
+Python is a dynamic typing language.
+python supports OOP.
+python is an interpreted language.
+Python supports web-development.
+Python is easy.welcome to python.
+Python is a dynamic typing language.
+python supports OOP.
+python is an interpreted language.
+Python supports web-development.
+Python is easy.

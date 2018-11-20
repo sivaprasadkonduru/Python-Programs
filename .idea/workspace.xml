@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e11f8a52-f6ed-4105-bca6-a5ca68c6c47e" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dreamwin5/file_handle/with_open.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_ex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/isplural.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/workspace/dwlibrary/library/libapp/urls.py" beforeDir="false" afterPath="$USER_HOME$/workspace/dwlibrary/library/libapp/urls.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/workspace/dwlibrary/library/libapp/views.py" beforeDir="false" afterPath="$USER_HOME$/workspace/dwlibrary/library/libapp/views.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/workspace/dwlibrary/library/library/settings.py" beforeDir="false" afterPath="$USER_HOME$/workspace/dwlibrary/library/library/settings.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/workspace/dwlibrary/library/library/urls.py" beforeDir="false" afterPath="$USER_HOME$/workspace/dwlibrary/library/library/urls.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/workspace/dwlibrary/library/templates/book_details.html" beforeDir="false" afterPath="$USER_HOME$/workspace/dwlibrary/library/templates/book_details.html" afterDir="false" />
+      <change beforePath="$USER_HOME$/workspace/libmanage/library/libapp/urls.py" beforeDir="false" afterPath="$USER_HOME$/workspace/libmanage/library/libapp/urls.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/workspace/libmanage/library/libapp/views.py" beforeDir="false" afterPath="$USER_HOME$/workspace/libmanage/library/libapp/views.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/workspace/libmanage/library/library/settings.py" beforeDir="false" afterPath="$USER_HOME$/workspace/libmanage/library/library/settings.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/workspace/libmanage/library/templates/book_details.html" beforeDir="false" afterPath="$USER_HOME$/workspace/libmanage/library/templates/book_details.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="generate.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Dreamwin5/functions/generate.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="rlog.log" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Dreamwin5/rlog.log">
+          <provider selected="true" editor-type-id="LogFileEditorProvider">
+            <state>
+              <caret column="45" selection-start-column="45" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app_log.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Dreamwin5/app_log.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="9" column="54" lean-forward="true" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rlog.log.1" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Dreamwin5/rlog.log.1">
+          <provider selected="true" editor-type-id="LogFileEditorProvider">
+            <state>
+              <caret column="35" selection-start-column="31" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rlog.log.2" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Dreamwin5/rlog.log.2">
+          <provider selected="true" editor-type-id="LogFileEditorProvider">
+            <state>
+              <caret column="29" selection-start-column="29" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>session</find>
+      <find>retrie</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$USER_HOME$/workspace/djpractice/practice/sampleapp/views.py" />
+        <option value="$PROJECT_DIR$/programs/alphabets.py" />
+        <option value="$PROJECT_DIR$/Dreamwin5/functions/func.py" />
+        <option value="$PROJECT_DIR$/Dreamwin5/functions/func_scopes.py" />
+        <option value="$PROJECT_DIR$/Dreamwin5/forloop.py" />
+        <option value="$PROJECT_DIR$/Dreamwin5/pangram.py" />
+        <option value="$PROJECT_DIR$/Dreamwin5/players.py" />
+        <option value="$PROJECT_DIR$/Dreamwin5/unique_list.py" />
+        <option value="$PROJECT_DIR$/move_zeros.py" />
+        <option value="$PROJECT_DIR$/Dreamwin5/ifelse.py" />
+        <option value="$PROJECT_DIR$/Sooryen_python/question3.py" />
+        <option value="$PROJECT_DIR$/Dreamwin5/functions/filter_func.py" />
+        <option value="$PROJECT_DIR$/Dreamwin5/functions/recursion.py" />
+        <option value="$PROJECT_DIR$/Dreamwin5/functions/anagrams.py" />
+        <option value="$PROJECT_DIR$/Dreamwin5/list_comp.py" />
+        <option value="$PROJECT_DIR$/Dreamwin5/dict_comp.py" />
+        <option value="D:/Python_Training/Programs/Dreamwin3/file_handling.py" />
+        <option value="$PROJECT_DIR$/Dreamwin5/functions/nested_func.py" />
+        <option value="$PROJECT_DIR$/Dreamwin5/functions/func_tools.py" />
+        <option value="$PROJECT_DIR$/Dreamwin5/functions/func_with_args.py" />
+        <option value="$PROJECT_DIR$/Dreamwin5/functions/func_closure.py" />
+        <option value="$PROJECT_DIR$/Dreamwin5/functions/decorator.py" />
+        <option value="$PROJECT_DIR$/Dreamwin5/namespaces.py" />
+        <option value="$PROJECT_DIR$/Dreamwin5/functions/lambda_func.py" />
+        <option value="$PROJECT_DIR$/Dreamwin5/packages.py" />
+        <option value="$PROJECT_DIR$/Dreamwin5/functions/sort_dict.py" />
+        <option value="$PROJECT_DIR$/Dreamwin5/collections_py/order_dict.py" />
+        <option value="$PROJECT_DIR$/Dreamwin5/collections_py/default_dict.py" />
+        <option value="$PROJECT_DIR$/Dreamwin5/collections_py/deque.py" />
+        <option value="$PROJECT_DIR$/Dreamwin5/collections_py/name_tuple.py" />
+        <option value="$PROJECT_DIR$/Dreamwin5/functions/generate.py" />
+        <option value="$PROJECT_DIR$/Dreamwin5/functions/fib_gen.py" />
+        <option value="$PROJECT_DIR$/Dreamwin5/file_handle/write_file.py" />
+        <option value="$PROJECT_DIR$/Dreamwin5/file_handle/open_file.py" />
+        <option value="$PROJECT_DIR$/Dreamwin5/file_handle/with_open.py" />
+        <option value="$PROJECT_DIR$/Dreamwin5/file_handle/super_hero.py" />
+        <option value="$PROJECT_DIR$/Dreamwin5/file_handle/super_heros.json" />
+        <option value="$PROJECT_DIR$/Dreamwin5/file_handle/student.csv" />
+        <option value="$PROJECT_DIR$/Dreamwin5/file_handle/csv_handle.py" />
+        <option value="$PROJECT_DIR$/Dreamwin5/file_handle/excel_handle.py" />
+        <option value="$PROJECT_DIR$/closure.py" />
+        <option value="$PROJECT_DIR$/Dreamwin5/re_flags.py" />
+        <option value="$PROJECT_DIR$/Dreamwin5/abc.log" />
+        <option value="$PROJECT_DIR$/Dreamwin5/factorial.py" />
+        <option value="$PROJECT_DIR$/Dreamwin5/rlog.log.5" />
+        <option value="$PROJECT_DIR$/Dreamwin5/rlog.log.2" />
+        <option value="$PROJECT_DIR$/Dreamwin5/rlog.log.4" />
+        <option value="$PROJECT_DIR$/Dreamwin5/rlog.log.3" />
+        <option value="$PROJECT_DIR$/Dreamwin5/rlog.log.1" />
+        <option value="$PROJECT_DIR$/Dreamwin5/rlog.log" />
+        <option value="$PROJECT_DIR$/Dreamwin5/app_log.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-244" />
+    <option name="y" value="235" />
+    <option name="width" value="1750" />
+    <option name="height" value="970" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Python-Programs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python-Programs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python-Programs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python-Programs" type="462c0819:PsiDirectoryNode" />
+              <item name="Dreamwin5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python-Programs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Dreamwin3" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="last_opened_file_path" value="$USER_HOME$/workspace/libmanage" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="dwlibrary" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="dwlibrary" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\workspace\libmanage" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\PycharmProjects\Python-Programs\Dreamwin4\OOPS" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.app_log">
+    <configuration name="anagrams" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python-Programs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/anagrams.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="app_log" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python-Programs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dreamwin5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dreamwin5/app_log.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="classes" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python-Programs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/classes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="factorial" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python-Programs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dreamwin5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dreamwin5/factorial.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="re_flags" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python-Programs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dreamwin5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dreamwin5/re_flags.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.anagrams" />
+      <item itemvalue="Python.classes" />
+      <item itemvalue="Python.re_flags" />
+      <item itemvalue="Python.app_log" />
+      <item itemvalue="Python.factorial" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app_log" />
+        <item itemvalue="Python.factorial" />
+        <item itemvalue="Python.re_flags" />
+        <item itemvalue="Python.classes" />
+        <item itemvalue="Python.anagrams" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e11f8a52-f6ed-4105-bca6-a5ca68c6c47e" name="Default" comment="" />
+      <created>1525152207675</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1525152207675</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1608073" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.22135417" side_tool="true" weight="0.31737345" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.48153216" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7792969" visible="true" weight="0.27906978" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32968536" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49934897" weight="0.3994528" />
+      <window_info anchor="bottom" id="Thumbnails" order="11" weight="0.32968536" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32968536" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="10" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/class_ex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/anagrams.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="31" lean-forward="true" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="101" lean-forward="true" selection-start-line="101" selection-end-line="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sooryen_python/question3.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sooryen_python/question2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dreamwin5/factorial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="58" selection-start-line="10" selection-start-column="58" selection-end-line="10" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dreamwin5/dict_swap.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dreamwin5/abc.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trans_expr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread_py.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/Python_Training/Programs/Dreamwin3/method_overload.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/Python_Training/Programs/Dreamwin3/method_override.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="519">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python_Training/Programs/Dreamwin3/list_comp.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/Python_Training/Programs/Dreamwin3/logging_py.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python_Training/Programs/Dreamwin3/filter_func.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/Python_Training/Programs/Dreamwin3/file_handling.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/Python_Training/Programs/Dreamwin3/except_handling.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/Python_Training/Programs/Dreamwin3/encapsulation_py.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dreamwin5/collections_py/order_dict.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dreamwin5/file_handle/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dreamwin5/file_handle/csv_handle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" column="20" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dreamwin5/file_handle/employee.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dreamwin5/file_handle/excel_handle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dreamwin5/file_handle/open_file.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dreamwin5/file_handle/student.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dreamwin5/file_handle/super_hero.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dreamwin5/file_handle/super_heros.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dreamwin5/file_handle/with_open.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dreamwin5/file_handle/write_file.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dreamwin5/file_handle/xyz.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dreamwin5/functions/anagrams.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dreamwin5/functions/decorator.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dreamwin5/functions/fib_gen.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dreamwin5/functions/filter_func.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dreamwin5/functions/func.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dreamwin5/functions/func_closure.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dreamwin5/functions/func_scopes.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dreamwin5/functions/func_tools.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dreamwin5/functions/func_with_args.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dreamwin5/functions/generate.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dreamwin5/functions/recursion.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dreamwin5/functions/nested_func.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="8" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="14" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dreamwin5/functions/lambda_func.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dreamwin5/rlog.log.4">
+      <provider selected="true" editor-type-id="LogFileEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dreamwin5/rlog.log.5">
+      <provider selected="true" editor-type-id="LogFileEditorProvider">
+        <state relative-caret-position="24">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dreamwin5/rlog.log.3">
+      <provider selected="true" editor-type-id="LogFileEditorProvider">
+        <state>
+          <caret column="47" selection-start-column="47" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dreamwin5/rlog.log.1">
+      <provider selected="true" editor-type-id="LogFileEditorProvider">
+        <state>
+          <caret column="35" selection-start-column="31" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dreamwin5/rlog.log.2">
+      <provider selected="true" editor-type-id="LogFileEditorProvider">
+        <state>
+          <caret column="29" selection-start-column="29" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dreamwin5/rlog.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider">
+        <state>
+          <caret column="45" selection-start-column="45" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dreamwin5/app_log.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="54" lean-forward="true" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

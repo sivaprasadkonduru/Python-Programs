@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:/Python_Training/Programs/Dreamwin3/.idea/Dreamwin3.iml" filepath="D:/Python_Training/Programs/Dreamwin3/.idea/Dreamwin3.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/Mahi/.idea/Mahi.iml" filepath="$USER_HOME$/Desktop/Mahi/.idea/Mahi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Python-Programs.iml" filepath="$PROJECT_DIR$/.idea/Python-Programs.iml" />
+      <module fileurl="file://$USER_HOME$/workspace/dwlibrary/.idea/dwlibrary.iml" filepath="$USER_HOME$/workspace/dwlibrary/.idea/dwlibrary.iml" />
+      <module fileurl="file://$USER_HOME$/workspace/flaskapp/.idea/flaskapp.iml" filepath="$USER_HOME$/workspace/flaskapp/.idea/flaskapp.iml" />
+      <module fileurl="file://$USER_HOME$/workspace/libmanage/.idea/libmanage.iml" filepath="$USER_HOME$/workspace/libmanage/.idea/libmanage.iml" />
+      <module fileurl="file://$USER_HOME$/workspace/library/.idea/library.iml" filepath="$USER_HOME$/workspace/library/.idea/library.iml" />
+      <module fileurl="file://$USER_HOME$/workspace/djpractice/practice/.idea/practice.iml" filepath="$USER_HOME$/workspace/djpractice/practice/.idea/practice.iml" />
+      <module fileurl="file://$USER_HOME$/workspace/practice/.idea/practice.iml" filepath="$USER_HOME$/workspace/practice/.idea/practice.iml" />
+    </modules>
+  </component>
+</project>
