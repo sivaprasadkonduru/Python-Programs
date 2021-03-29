@@ -14,3 +14,4 @@ class Python(Hello):
 obj = Python()
 obj.get_val()
 obj.print_val
+obj.print_val()
