@@ -10,7 +10,6 @@ class Python(Hello):
     def print_val(self):
         print(self.x)
 
-
 obj = Python()
 obj.get_val()
 obj.print_val

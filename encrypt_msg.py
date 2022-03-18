@@ -34,7 +34,6 @@ Output:
 thisistheeasyoneab"""
 
 
-
 def decode_text(col, encrypt_msg=None):
 
     if encrypt_msg is None:
